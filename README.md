@@ -31,13 +31,18 @@ La evaluación se realizó basada en 5 Aspectos:
     5.1.3 Análisis de desempeño Geográfico
 
   6. **Informe Final**
+     
      6.1 Ingresos Totales
+     
      6.2 Categorías más Vendidas
+
      6.3 Valoraciones Promedio
+
      6.4 Productos más vendidos
+
      6.5 Costo de Envío Promedio
      
-7. **Conclusión**
+8. **Conclusión**
 
 ---
 
